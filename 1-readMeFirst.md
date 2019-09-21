@@ -1,6 +1,36 @@
 # Introduction to CRUD with PHP and MySQL
 
-CRUD is an acronym that stands for Create Read Update Delete. This acronym describes four essential functions necessary to maintain and use information in a database.
+CRUD is an acronym that stands for Create Read Update Delete. This acronym describes four essential functions necessary to maintain and use information stored in a database.
+
+PHP is a web scripting language that enables web pages to communicate with databases.
+
+MySQL is the open-source database platform in use by many web sites to store information.
+
+Here's how they all works together: Web pages uses PHP scripts to interact with web databases. These PHP scripts utilize the CRUD methodology to systematically accomplish tasks of creating, reading, updating, and deleting information in the database.
+
+
+## Background
+
+When we envision, design, and code web experiences, we can categorize our objectives into two general categories:
+
+1. What the experience looks like
+2. What the experience feel like
+3. What the experience does
+
+In user experience terms, these three areas of concern are referred in shorthand as look, feel, and function.
+
+
+In this introduction to CRUD with PHP and MySQL, we will learn how to set up a web database, code web pages that can talk to the web database, and write PHP scripts that will live on the web pages and accomplish various tasks of creating, reading, updating, and deleting information in the database.
+
+When we know how to work with all these things, we will design a simple news feed web page. By applying your new-found knowledge of CRUD, PHP, and MySQL, you will demonstrate the basic information management system that every newspaper website relies on to deliver timely news content.
+
+
+
+
+
+
+
+to the open
 
 CRUD outlines the process an information designer must be prepared to 
 
