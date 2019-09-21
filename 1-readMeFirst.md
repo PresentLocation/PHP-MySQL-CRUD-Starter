@@ -1,4 +1,6 @@
-*Introduction to CRUD with PHP and MySQL*
+#Introduction to CRUD with PHP and MySQL#
+
+*By Eugene Ahn, MA*
 
 Learn how to make web pages and web databases work together to present dynamic information.--
 
