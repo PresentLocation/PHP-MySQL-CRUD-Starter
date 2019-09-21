@@ -18,15 +18,15 @@ After we develop familiarity with how to work with CRUD, PHP, and MySQL, we will
 
 ### Look, feel, and function
 
-When we envision, design, and code web experiences, we can categorize our objectives into two general categories:
+When we envision, design, and code web experiences, the process we undertake pursues objectives that typically organize into three general categories:
 
 1. What the experience looks like
 2. What the experience feel like
 3. What the experience does
 
-In user experience terms, these three areas of concern are referred in shorthand as look, feel, and function.
+In "user experience" terms, these three areas of concern are referred in shorthand as *look, feel,* and *function*.
 
-When we are learning about CRUD, PHP, and MySQL, primarily we are learning how to achieve new levels of function.
+When we are learning about CRUD, PHP, and MySQL, primarily we are learning how to achieve new levels of function. Because when we use CRUD, PHP, and MySQL to control what information does in a web experience, we are transforming the possibilies of information. Without CRUD, PHP, and MySQL, information is *static*. With CRUD, PHP, and MySQL, information becomes *dynamic*.
 
 ### Static versus dynamic
 
