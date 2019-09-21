@@ -16,6 +16,8 @@ After we develop familiarity with how to work with CRUD, PHP, and MySQL, we will
 
 ## Background
 
+### Look, feel, and function
+
 When we envision, design, and code web experiences, we can categorize our objectives into two general categories:
 
 1. What the experience looks like
@@ -24,44 +26,44 @@ When we envision, design, and code web experiences, we can categorize our object
 
 In user experience terms, these three areas of concern are referred in shorthand as look, feel, and function.
 
+When we are learning about CRUD, PHP, and MySQL, primarily we are learning how to achieve new levels of function.
+
+### Static versus dynamic
+
+### Infrastructure of interactive information
+
+Web pages. Think of web pages (or app screens) as the interfaces that allow the information to move from database to user, and vice versa. Through your web pages, a user can "talk back" to the database by adding new information or updating existing information. As interfaces, web pages need to work. In other words, they need to perform the proposed function. They also need to look and feel appropriate for use.
+
+Web databases. A database is a structure that stores information. Think of a database in the same way you think of a spreadsheet. When placed in a database or a spreadsheet, information can be organized in a way that lets us relate, calculate, and filter that information in ways that give us many options in how we may view and understand that information. A web database is an information storage system that is accessible via the Internet. 
 
 
+## References
+
+- What is CRUD? https://www.codecademy.com/articles/what-is-crud
+- PHP https://www.php.net
+- MySQL: https://www.mysql.com
+- Function, Feel, Form https://uxdesign.cc/function-feel-form-cdd5a539224b
 
 
-
-
-
-
-
-to the open
-
-CRUD outlines the process an information designer must be prepared to 
-
-
-
-
-Learn how to make web pages and web databases work together to present dynamic information.--
 
 For lesson narratives, see http://www.codeyourheartout.com/
 
-EDUCATORS
+
+## Notes for users
+
+### For educators
+
 This repository is an Open Educational Resource and you may use it in any way in your lessons.
 
-STUDENTS
+### For students
 
+This repository 
 
 Web content is compelling because it can provide information that is fresh and relevant
 
 
-Background concepts:
 
-Static content
 
-Dynamic content
-
-Web pages
-
-Web databases. A database is a structure that stores information. Think of a database in the same way you think of a spreadsheet. When placed in a database or a spreadsheet, information can be organized in a way that lets us relate, calculate, and filter that information in ways that give us many options in how we may view and understand that information. A web database is an information storage system that is accessible via the Internet. 
 
 This repository contains demonstration code in support of coursework for Art 646 interactive web design.
 
