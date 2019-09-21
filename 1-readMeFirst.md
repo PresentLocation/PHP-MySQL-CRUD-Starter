@@ -1,13 +1,18 @@
 # Introduction to CRUD with PHP and MySQL
 
-CRUD is an acronym that stands for Create Read Update Delete. This acronym describes four essential functions necessary to maintain and use information stored in a database.
+**CRUD** is an acronym that stands for Create Read Update Delete. This acronym describes four essential functions necessary to maintain and use information stored in a database.
 
-PHP is a web scripting language that enables web pages to communicate with databases.
+**PHP** is a web scripting language that enables web pages to communicate with databases.
 
-MySQL is the open-source database platform in use by many web sites to store information.
+**MySQL** is the open-source database platform in use by many web sites to store information.
 
-Here's how they all works together: Web pages uses PHP scripts to interact with web databases. These PHP scripts utilize the CRUD methodology to systematically accomplish tasks of creating, reading, updating, and deleting information in the database.
+Here's how they all work together: Web pages uses PHP scripts to interact with web databases. These PHP scripts utilize the CRUD methodology to systematically accomplish tasks of creating, reading, updating, and deleting information in the database.
 
+In short, CRUD, PHP, and MySQL form an essential toolkit for making the information in your web experience truly interactive.
+
+In this introduction to CRUD with PHP and MySQL, we will learn how to set up a web database, code web pages that can talk to the web database, and write PHP scripts that will live on the web pages and accomplish various tasks of creating, reading, updating, and deleting information in the database.
+
+After we develop familiarity with how to work with CRUD, PHP, and MySQL, we will design a simple news feed web page. By applying your new-found knowledge, you will demonstrate to yourself and to others that you can build the most basic version of the kind of information management system that every newspaper website relies on to deliver timely news content.
 
 ## Background
 
@@ -20,9 +25,7 @@ When we envision, design, and code web experiences, we can categorize our object
 In user experience terms, these three areas of concern are referred in shorthand as look, feel, and function.
 
 
-In this introduction to CRUD with PHP and MySQL, we will learn how to set up a web database, code web pages that can talk to the web database, and write PHP scripts that will live on the web pages and accomplish various tasks of creating, reading, updating, and deleting information in the database.
 
-When we know how to work with all these things, we will design a simple news feed web page. By applying your new-found knowledge of CRUD, PHP, and MySQL, you will demonstrate the basic information management system that every newspaper website relies on to deliver timely news content.
 
 
 
