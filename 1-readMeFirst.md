@@ -1,6 +1,12 @@
-#Introduction to CRUD with PHP and MySQL#
+##Introduction to CRUD with PHP and MySQL##
 
-*By Eugene Ahn, MA*
+
+CRUD is an acronym that stands for Create Read Update Delete. This acronym describes four essential functions necessary to maintain and use information in a database.
+
+CRUD outlines the process an information designer must be prepared to 
+
+
+
 
 Learn how to make web pages and web databases work together to present dynamic information.--
 
