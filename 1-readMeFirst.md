@@ -44,8 +44,6 @@ Web databases. A database is a structure that stores information. Think of a dat
 - MySQL: https://www.mysql.com
 - Function, Feel, Form https://uxdesign.cc/function-feel-form-cdd5a539224b
 
-
-
 For lesson narratives, see http://www.codeyourheartout.com/
 
 
@@ -57,18 +55,11 @@ This repository is an Open Educational Resource and you may use it in any way in
 
 ### For students
 
-This repository 
+This repository contains explanations and links to structured activities that will teach you about PHP, MySQL, and how to use them to make a website interactive with database-driven content.
 
-Web content is compelling because it can provide information that is fresh and relevant
-
-
-
-
-
-This repository contains demonstration code in support of coursework for Art 646 interactive web design.
-
-Here is how to use this repository:
+### How to use this repository
 
 1. Review the files. The files contain the code needed to set up a sample database, and scripts to make your web pages work.
-2. Explore the online workshop pages: http://www.flamethrowing.info/crudWorkshop.
+2. Read the briefs that explain the different resources required. In every case, there is a free version of resource available. As an OER learning resource, this introduction to CRUD, PHP, and MySQL demonstrates how to access and set up the free versions of resources.
+3. Explore the online workshop pages: http://www.flamethrowing.info/crudWorkshop.
 
