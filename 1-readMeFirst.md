@@ -70,4 +70,5 @@ This repository contains demonstration code in support of coursework for Art 646
 Here is how to use this repository:
 
 1. Review the files. The files contain the code needed to set up a sample database, and scripts to make your web pages work.
+2. Explore the online workshop pages: http://www.flamethrowing.info/crudWorkshop.
 
