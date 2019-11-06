@@ -1,11 +1,11 @@
-#CHACON WEB APP (CWA)
+# CHACON WEB APP (CWA)
 
-###Project Road Map to Minimum Viable Product
+### Project Road Map to Minimum Viable Product
 
 Notes by Eugene Ahn, November 5, 2019
 
 
-##FRONT END
+## FRONT END
 
 #home
 - Add text block to the dynamic content lineup for this panel. Users will want this option.
@@ -23,7 +23,7 @@ Notes by Eugene Ahn, November 5, 2019
 - MVP+: Provide a way to sequence the social links.
 
 
-##CRUD
+## CRUD
 
 Edit Text
 - Make update work
@@ -43,13 +43,14 @@ Pics
 - Assign account email
 - Manage username / password
 
-##Product (NEW)
+## Product (NEW)
 - Upgrade database table structure to allow tracking of (1) account, (2) status, and (3) type
 - Develop a login method so account holders can access their account
 - Skin the CRUD
 - Develop a superadmin space, which lets CWA owner manage accounts
+- Set up the brand/admin webspace
 
-##Product Support Workflow
+## Product Support Workflow
 - Develop an account setup procedure narrative: How does a new customer become an account and provision a website?
 - Develop a website setup procedure narrative: How does a customer use CWA to set up their website in record time?
 - Develop a CWA user manual: How does a customer use CWA to update and maintain the website?
